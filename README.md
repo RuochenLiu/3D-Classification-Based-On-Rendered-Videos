@@ -13,5 +13,9 @@ ModelNet10 dataset downloaded from [Princeton ModelNet](http://modelnet.cs.princ
 - Batch normalization applied. LeakyReLU as activation function.
 - Features from three axes are fed to the same network.
 - Prediction is made by voting from three results.
+- [Model summary (link)](https://github.com/RuochenLiu/3D-Classification-Based-On-Rendered-Videos/blob/master/doc/model_summary.txt "Model summary")
 ## Experiment
+- Trained for 20 epochs.
+- Best test accuracy **91.6%**.
 
+![](https://github.com/RuochenLiu/3D-Classification-Based-On-Rendered-Videos/blob/master/fig/acc.png)![](https://github.com/RuochenLiu/3D-Classification-Based-On-Rendered-Videos/blob/master/fig/loss.png)

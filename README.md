@@ -1,7 +1,7 @@
 # 3D Classification Based On Rendered Videos
 ## Data
 ModelNet10 dataset downloaded from [Princeton ModelNet](http://modelnet.cs.princeton.edu/ "Princeton ModelNet").
-## Purposed Method
+## Proposed Method
 ### Feature
 - Original OFF files converted into PLY format.
 - Each polygon object is rendered and taken images of from three orthogonal axes.
